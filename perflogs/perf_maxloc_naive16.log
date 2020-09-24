@@ -1,0 +1,16 @@
+MAXLOC -- NAIVE PARALLELISATION
+1. Initializing vector
+2. Find maxloc
+Dry run: Max: 972.547967	@ 480701	
+Run   0: Max: 972.547967	@ 480701	Elapsed time: 0.000141
+Run   1: Max: 972.547967	@ 480701	Elapsed time: 0.000130
+Run   2: Max: 972.547967	@ 480701	Elapsed time: 0.000124
+Run   3: Max: 972.547967	@ 480701	Elapsed time: 0.000123
+Run   4: Max: 972.547967	@ 480701	Elapsed time: 0.000122
+Run   5: Max: 972.547967	@ 480701	Elapsed time: 0.000121
+Run   6: Max: 972.547967	@ 480701	Elapsed time: 0.000120
+Run   7: Max: 972.547967	@ 480701	Elapsed time: 0.000127
+Run   8: Max: 972.547967	@ 480701	Elapsed time: 0.000123
+Run   9: Max: 972.547967	@ 480701	Elapsed time: 0.000120
+----------------------------------------
+Total time:	0.001251 s	mean= 0.000125	 std= 0.000006	( 4.87 % )

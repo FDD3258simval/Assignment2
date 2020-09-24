@@ -1,0 +1,15 @@
+MAXLOC -- CRITICAL SECTION1. Initializing vector
+2. Find maxloc
+Dry run: Max: 984.830104	@ 448366	
+Run   0: Max: 984.830104	@ 448366	Elapsed time: 0.195183
+Run   1: Max: 984.830104	@ 448366	Elapsed time: 0.191227
+Run   2: Max: 984.830104	@ 448366	Elapsed time: 0.188797
+Run   3: Max: 984.830104	@ 448366	Elapsed time: 0.183371
+Run   4: Max: 984.830104	@ 448366	Elapsed time: 0.183245
+Run   5: Max: 984.830104	@ 448366	Elapsed time: 0.183060
+Run   6: Max: 984.830104	@ 448366	Elapsed time: 0.185646
+Run   7: Max: 984.830104	@ 448366	Elapsed time: 0.173668
+Run   8: Max: 984.830104	@ 448366	Elapsed time: 0.183232
+Run   9: Max: 984.830104	@ 448366	Elapsed time: 0.165433
+----------------------------------------
+Total time:	1.832861 s	mean= 0.183286	 std= 0.008074	( 4.40 % )
