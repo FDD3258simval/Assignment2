@@ -33,6 +33,10 @@ void maxloc()
 {
   double maxval[MAX_THREADS], mval;
   int maxloc[MAX_THREADS], mloc;
+  for (int i=0; i < MAX_THREADS; i++){
+    maxval[i] = 0;
+    maxloc[i] = 0;
+  }
 
   #pragma omp parallel shared(maxval,maxloc)
   {

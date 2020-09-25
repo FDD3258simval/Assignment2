@@ -35,6 +35,11 @@ void maxloc()
   typedef struct { double val; int loc; char pad[128]; } tvals;
   tvals maxinfo[MAX_THREADS];
 
+  for (int i=0; i < MAX_THREADS; i++){
+    maxinfo[i].val = 0;
+    maxinfo[i].loc = 0;
+  }
+
   #pragma omp parallel shared(maxinfo)
   {
     int id = omp_get_thread_num();
