@@ -1,15 +1,15 @@
 MAXLOC -- CRITICAL SECTION1. Initializing vector
 2. Find maxloc
-Dry run: Max: 987.518040	@ 664736	
-Run   0: Max: 987.518040	@ 664736	Elapsed time: 0.229535
-Run   1: Max: 987.518040	@ 664736	Elapsed time: 0.219518
-Run   2: Max: 987.518040	@ 664736	Elapsed time: 0.204667
-Run   3: Max: 987.518040	@ 664736	Elapsed time: 0.185930
-Run   4: Max: 987.518040	@ 664736	Elapsed time: 0.183821
-Run   5: Max: 987.518040	@ 664736	Elapsed time: 0.184461
-Run   6: Max: 987.518040	@ 664736	Elapsed time: 0.186912
-Run   7: Max: 987.518040	@ 664736	Elapsed time: 0.183479
-Run   8: Max: 987.518040	@ 664736	Elapsed time: 0.171661
-Run   9: Max: 987.518040	@ 664736	Elapsed time: 0.175411
+Dry run: Max: 986.924499	@ 842751	
+Run   0: Max: 986.924499	@ 842751	Elapsed time: 0.103511
+Run   1: Max: 986.924499	@ 842751	Elapsed time: 0.103285
+Run   2: Max: 986.924499	@ 842751	Elapsed time: 0.108744
+Run   3: Max: 986.924499	@ 842751	Elapsed time: 0.109968
+Run   4: Max: 986.924499	@ 842751	Elapsed time: 0.108783
+Run   5: Max: 986.924499	@ 842751	Elapsed time: 0.114356
+Run   6: Max: 986.924499	@ 842751	Elapsed time: 0.107485
+Run   7: Max: 986.924499	@ 842751	Elapsed time: 0.111136
+Run   8: Max: 986.924499	@ 842751	Elapsed time: 0.109543
+Run   9: Max: 986.924499	@ 842751	Elapsed time: 0.109416
 ----------------------------------------
-Total time:	1.925395 s	mean= 0.192540	 std= 0.018088	( 9.39 % )
+Total time:	1.086227 s	mean= 0.108623	 std= 0.003137	( 2.89 % )

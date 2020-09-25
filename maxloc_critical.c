@@ -32,7 +32,6 @@ void maxloc()
 {
   double maxval=0.0; int maxloc = 0;
 
-  omp_set_num_threads(32);
   #pragma omp parallel for
   for (int i=0; i < N; i++){
     #pragma omp critical

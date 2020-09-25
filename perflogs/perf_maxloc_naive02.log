@@ -1,16 +1,16 @@
 MAXLOC -- NAIVE PARALLELISATION
 1. Initializing vector
 2. Find maxloc
-Dry run: Max: 990.572707	@ 152602	
-Run   0: Max: 990.572707	@ 152602	Elapsed time: 0.000122
-Run   1: Max: 990.572707	@ 152602	Elapsed time: 0.000122
-Run   2: Max: 990.572707	@ 152602	Elapsed time: 0.000121
-Run   3: Max: 990.572707	@ 152602	Elapsed time: 0.000118
-Run   4: Max: 990.572707	@ 152602	Elapsed time: 0.000123
-Run   5: Max: 990.572707	@ 152602	Elapsed time: 0.000121
-Run   6: Max: 990.572707	@ 152602	Elapsed time: 0.000119
-Run   7: Max: 990.572707	@ 152602	Elapsed time: 0.000119
-Run   8: Max: 990.572707	@ 152602	Elapsed time: 0.000120
-Run   9: Max: 990.572707	@ 152602	Elapsed time: 0.000118
+Dry run: Max: 980.220014	@ 617333	
+Run   0: Max: 980.220014	@ 617333	Elapsed time: 0.001263
+Run   1: Max: 980.220014	@ 617333	Elapsed time: 0.001296
+Run   2: Max: 980.220014	@ 617333	Elapsed time: 0.001263
+Run   3: Max: 980.220014	@ 617333	Elapsed time: 0.001262
+Run   4: Max: 980.220014	@ 617333	Elapsed time: 0.001268
+Run   5: Max: 980.220014	@ 617333	Elapsed time: 0.001263
+Run   6: Max: 980.220014	@ 617333	Elapsed time: 0.001263
+Run   7: Max: 980.220014	@ 617333	Elapsed time: 0.001276
+Run   8: Max: 980.220014	@ 617333	Elapsed time: 0.001262
+Run   9: Max: 980.220014	@ 617333	Elapsed time: 0.001262
 ----------------------------------------
-Total time:	0.001204 s	mean= 0.000120	 std= 0.000002	( 1.41 % )
+Total time:	0.012678 s	mean= 0.001268	 std= 0.000010	( 0.81 % )

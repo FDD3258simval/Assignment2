@@ -1,16 +1,16 @@
 MAXLOC --- ARRAY
 1. Initializing vector
 2. Find maxloc
-Dry run: 	Max: 976.225451	@ 765920	
-Run   0: 	Max: 976.225451	@ 765920	Elapsed time: 0.000184
-Run   1: 	Max: 243993.000000	@ 0	Elapsed time: 0.000185
-Run   2: 	Max: 244180.000000	@ 0	Elapsed time: 0.000185
-Run   3: 	Max: 244365.000000	@ 0	Elapsed time: 0.000185
-Run   4: 	Max: 244551.000000	@ 0	Elapsed time: 0.000184
-Run   5: 	Max: 244736.000000	@ 0	Elapsed time: 0.000184
-Run   6: 	Max: 244921.000000	@ 0	Elapsed time: 0.000184
-Run   7: 	Max: 245106.000000	@ 0	Elapsed time: 0.000184
-Run   8: 	Max: 245291.000000	@ 0	Elapsed time: 0.000184
-Run   9: 	Max: 245476.000000	@ 0	Elapsed time: 0.000183
+Dry run: 	Max: 994.396951	@ 557101	
+Run   0: 	Max: 994.396951	@ 557101	Elapsed time: 0.000185
+Run   1: 	Max: 18960.000000	@ 0	Elapsed time: 0.000183
+Run   2: 	Max: 19145.000000	@ 0	Elapsed time: 0.000183
+Run   3: 	Max: 19329.000000	@ 0	Elapsed time: 0.000183
+Run   4: 	Max: 19513.000000	@ 0	Elapsed time: 0.000183
+Run   5: 	Max: 19697.000000	@ 0	Elapsed time: 0.000201
+Run   6: 	Max: 19899.000000	@ 0	Elapsed time: 0.000183
+Run   7: 	Max: 20083.000000	@ 0	Elapsed time: 0.000183
+Run   8: 	Max: 20267.000000	@ 0	Elapsed time: 0.000183
+Run   9: 	Max: 20451.000000	@ 0	Elapsed time: 0.000182
 ----------------------------------------
-Total time:	0.001842 s	mean= 0.000184	 std= 0.000001	( 0.31 % )
+Total time:	0.001849 s	mean= 0.000185	 std= 0.000005	( 2.93 % )
